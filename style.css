@@ -7,8 +7,10 @@
 }
 
 .cabeçalho-imagem {
-    width: 100px;
+    width: 120px;
+    text-align: center;
 }
+
 
 .cabeçalho-título1 {
     text-align: center;
