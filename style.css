@@ -12,6 +12,8 @@
 .cabeçalho-imagem {
     width: 120px;
     text-align: center;
+    margin: 0;
+    padding: 200px, 200px;
 }
 
 .cabeçalho-título1 {
