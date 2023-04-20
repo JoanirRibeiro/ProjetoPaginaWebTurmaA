@@ -1,6 +1,8 @@
 .cabeçalho {
     display: flex;
     background-color: #3C486B;
+    margin: 0;
+    padding: 300px, 300px ;
 }
 
 .cabeçalho {
