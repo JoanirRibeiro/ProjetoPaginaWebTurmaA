@@ -42,3 +42,11 @@
     margin: 0%;
     padding: 20% 2%;
 }
+
+.cabeçalho-lista-elemento1 {
+    display: inline-block;
+}
+
+.cabeçalho-lista-elemento2 {
+    display: inline-block;
+}
